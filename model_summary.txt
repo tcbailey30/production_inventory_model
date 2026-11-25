@@ -1,0 +1,11 @@
+IMSE 780 — BASELINE MODEL RESULTS (synthetic classroom data)
+Solver: SciPy scipy.optimize.milp (HiGHS)
+Model: pure ILP; x_it and S_it are nonnegative integers
+Solver status: Optimization terminated successfully. (HiGHS Status 7: Optimal)
+Minimum total cost: 1331.95 CU
+  Production cost: 1258.00 CU
+  Holding cost: 73.95 CU
+Total units produced: 181
+Total demand satisfied: 376
+Final total inventory: 35
+Checked: every inventory balance, reserve, capacity, budget, and integrality
